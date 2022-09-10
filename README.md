@@ -1,3 +1,5 @@
+Forked from [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative).
+
 # Obsidian File Tree Alternative Plugin
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ozntel/file-tree-alternative?style=for-the-badge)
@@ -66,14 +68,10 @@ You can also checkout the Youtube video created by Antone Heyward explaining the
 
       <img src="https://github.com/ozntel/file-tree-alternative/raw/main/images/files-pinned.png" style="width: 400px;" />
 
-## Contact
-
-If you have any issue or you have any suggestion, please feel free to reach me out directly using contact page of my website [ozan.pl/contact/](https://www.ozan.pl/contact/) or directly to <me@ozan.pl>.
-
 ## Support
 
-If you are enjoying the plugin then you can support my work and enthusiasm by buying me a coffee:
+If you are enjoying the plugin then you can support the original author ([ozntel](https://github.com/ozntel))'s work and enthusiasm by buying them a coffee:
 
 <a href='https://ko-fi.com/L3L356V6Q' target='_blank'>
-    <img height='48' style='border:0px;height:48px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <img height='48' style='border:0px;height:48px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy ozntel a Coffee at ko-fi.com' />
 </a>
